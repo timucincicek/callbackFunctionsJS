@@ -1,0 +1,14 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.popup-container {
+  display: none;
+  border: 1px solid;
+  margin-top: 50px;
+  margin-left: 120px;
+  margin-right: 120px;
+  text-align: center;
+  padding-bottom: 15px;
+}
